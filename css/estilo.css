@@ -1,0 +1,30 @@
+h1{
+    text-align: right;
+}
+
+  span{
+    display: inline-flexbox;
+    background-color: #A3A9C1;
+    font-weight: bold;
+    text-align: right;
+  }
+  
+  form{
+    background-color: #EDEDED;
+  }
+
+  footer .card{
+    background-color: #282828;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 5px;
+  }
+
+  form.formRegistro{
+    padding-left: 100px;
+  }
+
+  button.btnEliminar{
+    background-color: #E34E4E;
+    border-color: #E34E4E;
+  }
